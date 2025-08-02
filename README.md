@@ -22,9 +22,9 @@ Tor'u yüklemenize gerek yok. Proxy'ler için seçildiğinde Tor otomatik olarak
 
 install [python](https://www.python.org/downloads/) ve [git](https://git-scm.com/download/win)
 ```
-cmdyi açın ve bunu yazın git clone https://github.com/Foxlen0/Hotmail-Checker
+git clone https://github.com/Foxlen0/TruckkunChecker
 
-sonra yüklediğiniz dosyayı açın dosyada cmdyi açın alttaki komutları girin
+cd TruckkunChecker
 
 pip install -r requirements.txt
 
