@@ -28,5 +28,5 @@ sonra yüklediğiniz dosyayı açın dosyada cmdyi açın alttaki komutları gir
 
 pip install -r requirements.txt
 
-python Hotmail Checker.py
+python Foxlen.py
 ```
