@@ -22,7 +22,7 @@ Tor'u yüklemenize gerek yok. Proxy'ler için seçildiğinde Tor otomatik olarak
 
 install [python](https://www.python.org/downloads/) ve [git](https://git-scm.com/download/win)
 ```
-git clone https://github.com/MachineKillin/MSMC
+git clone (https://github.com/Foxlen0/Hotmail-Checker)
 cd Foxlen
 pip install -r requirements.txt
 python Hotmail Checker.py
